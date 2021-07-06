@@ -18,7 +18,6 @@ E:\Leanning\Design UI\DesignUI_V1\DesignUI_V1\obj\Debug\DesignUI_V1.csprojAssemb
 E:\Leanning\Design UI\New folder\DesignUI_V1\bin\Debug\DesignUI_V1.exe.config
 E:\Leanning\Design UI\New folder\DesignUI_V1\bin\Debug\DesignUI_V1.exe
 E:\Leanning\Design UI\New folder\DesignUI_V1\bin\Debug\DesignUI_V1.pdb
-E:\Leanning\Design UI\New folder\DesignUI_V1\obj\Debug\DesignUI_V1.csprojAssemblyReference.cache
 E:\Leanning\Design UI\New folder\DesignUI_V1\obj\Debug\Assets\icons.baml
 E:\Leanning\Design UI\New folder\DesignUI_V1\obj\Debug\MainWindow.g.cs
 E:\Leanning\Design UI\New folder\DesignUI_V1\obj\Debug\App.g.cs
